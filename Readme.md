@@ -14,3 +14,5 @@ cd team
 git add .
 git push
 dir
+
+# 홍서우 왔다 갑니다.
